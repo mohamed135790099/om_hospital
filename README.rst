@@ -30,7 +30,7 @@ Credits
 Contributors
 ------------
 
-* Odoo Mates <odoomates@gmail.com>
+* Odoo<mh1749555@gmail.com>
 
 
 Author & Maintainer
