@@ -36,4 +36,4 @@ Contributors
 Author & Maintainer
 -------------------
 
-This module is maintained by the Odoo Mates
+This module is maintained by the mohamed hussien
